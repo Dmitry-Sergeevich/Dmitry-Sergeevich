@@ -1,4 +1,36 @@
-### Hi there 👋
+<h2 align="center">Приветствую👋 Меня зовут Дмитрий</h2>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=QA+Engineer;Manual&vcenter=false&color=bf0f0f)](https://git.io/typing-svg)
+
+- 🎓 __Техническое__ образование по направлению «Информационные системы и программирование»
+- 📘 *Постоянно изучаю что-то новое в сфере IT*
+- 💬 Связаться мо мной: [Telegram.](https://t.me/DmitryUlsk)
+
+### Я умею
+<p align="left">
+<img align="center" src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40"/>
+<img align="center" src="https://cdn.icon-icons.com/icons2/2552/PNG/512/chrome_devtools_browser_logo_icon_153005.png" width="40" height="40"/>
+</p>
+
+![Profile_views](https://komarev.com/ghpvc/?username=DmitryUlsk&color=ff69b4&style=for-the-badge)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DmitryUlsk)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--
+**DmitryUlsk/DmitryUlsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 
 <!--
 **Dmitry-Sergeevich/Dmitry-Sergeevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
